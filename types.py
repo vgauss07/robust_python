@@ -1,8 +1,14 @@
 """
+types:
+    mechanical and semantic 
+    representation.
+
+Mechanical Reps:
 Types convey info about
 behaviors and constraints
 to the Python language.
 
+Semantic Reps:
 communicates same to other
 developers
 """
